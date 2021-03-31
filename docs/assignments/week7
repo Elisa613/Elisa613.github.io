@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+table {border: solid 2px; border-collapse: collapse;}
+td, th {border: solid 1px;}
+
+thead {background-color: LightGrey; font-size: 1.2em;}
+tbody {background-color: LightGreen;}
+tfoot {background-color: LightSlateGray;}
+
+</style>
+</head>
+<body>
+<table>
+	<thead>
+		<tr>
+			<th></th>
+			<th>Monday</th>
+			<th>Tuesday</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th><i>9am</i></th>
+			<td rowspan="2">Geography</td>
+			<td rowspan="3">Gym</td>
+		</tr>
+		<tr>
+			<th><i>10am</i></th>
+		</tr>
+		<tr>
+			<th><i>11am</i></th>
+			<td>Math</td>
+		</tr>
+		<tr>
+			<th><i>12am</i></th>
+			<td>Art</td>
+			<td>Home</td>
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<th><u>Hours in university</u>:</th>
+			<td>4</td>
+			<td>0</td>
+		</tr>
+	</tfoot>
+</table>
+</body>
+</html>

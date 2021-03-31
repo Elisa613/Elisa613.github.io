@@ -1,10 +1,10 @@
 <html>
 <head>
 <style>
-table {border: solid 2px; border-collapse: collapse;}
-td, th {border: solid 1px;}
+table {border: solid 3px; border-collapse: collapse;}
+td, th {border: solid 2px;}
 
-thead {background-color: LightBlue; font-size: 1.2em;}
+thead {background-color: LightBlue; font-size: 1.5em;}
 tbody {background-color: LightGreen;}
 tfoot {background-color: Orange;}
 

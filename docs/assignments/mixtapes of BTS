@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>D2 Daechwita</title>
+</head>
+<body>
+<div id="header_1"> 
+<video src="file:///C:/Users/User/Desktop/Elisa/北大/大一下通識/images/daechwita.mp4"
+width="400" height="300"
+preload
+controls
+loop>
+<p>Daechwita</p>
+</video>
+<img src="C:\Users\User\Desktop\Elisa\北大\大一下通識\images\389450.jpg" alt="D2" height="300"/>
+
+<br>
+</div><!-- end of header 1-->
+<div id="header_2">
+<audio src="file:///C:/Users/User/Desktop/Elisa/北大/大一下通識/images/daechwita.mp3"
+controls autoplay>
+<p>Daechwita</p>
+</audio>
+<br>
+<img src="C:\Users\User\Desktop\Elisa\北大\大一下通識\images\389451.jpg" alt="D2" height="300"/>
+
+</div><!-- end of header 2-->
+</body>
+</html>

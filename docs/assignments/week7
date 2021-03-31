@@ -4,9 +4,9 @@
 table {border: solid 2px; border-collapse: collapse;}
 td, th {border: solid 1px;}
 
-thead {background-color: LightGrey; font-size: 1.2em;}
+thead {background-color: LightBlue; font-size: 1.2em;}
 tbody {background-color: LightGreen;}
-tfoot {background-color: LightSlateGray;}
+tfoot {background-color: Orange;}
 
 </style>
 </head>
@@ -17,32 +17,62 @@ tfoot {background-color: LightSlateGray;}
 			<th></th>
 			<th>Monday</th>
 			<th>Tuesday</th>
+			<th>Wednesady</th>
+			<th>Thursday</th>
+			<th>Friday</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<th><i>9am</i></th>
+			<th><i>8am</i></th>
 			<td rowspan="2">Geography</td>
-			<td rowspan="3">Gym</td>
+			<td></td>
+			<td></td>
+			<td rowspan="2"></td>
+			<td rowspan="2"></td>
+		</tr>
+		<tr>
+			<th><i>9am</i></th>
+			<td rowspan="3">Accouting</td>
+			<td rowspan="3">Management</td>
 		</tr>
 		<tr>
 			<th><i>10am</i></th>
+			<td rowspan="2">PE</td>
+			<td rowspan="2">Accouting</td>
+			<td rowspan="2">Chinese</td>
 		</tr>
 		<tr>
 			<th><i>11am</i></th>
-			<td>Math</td>
+			
 		</tr>
 		<tr>
-			<th><i>12am</i></th>
-			<td>Art</td>
+			<th><i>13am</i></th>
+			<td rowspan="3">Calculus</td>
+			<td rowspan="2">Computer Science</td>
+			<td rowspan="3">Web Programming</td>
+			<td rowspan="3">Calculus</td>
+			<td rowspan="3">Home</td>
+		</tr>
+		<tr>
+			<th><i>14am</i></th>
+			
+			
+		</tr>
+		<tr>
+			<th><i>15am</i></th>
+			
 			<td>Home</td>
 		</tr>
 	</tbody>
 	<tfoot>
 		<tr>
 			<th><u>Hours in university</u>:</th>
-			<td>4</td>
-			<td>0</td>
+			<td>7</td>
+			<td>5</td>
+			<td>6</td>
+			<td>5</td>
+			<td>2</td>
 		</tr>
 	</tfoot>
 </table>

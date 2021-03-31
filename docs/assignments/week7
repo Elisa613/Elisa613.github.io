@@ -14,7 +14,7 @@ tfoot {background-color: Orange;}
 <table>
 	<thead>
 		<tr>
-			<th></th>
+			<th>Weekday</th>
 			<th>Monday</th>
 			<th>Tuesday</th>
 			<th>Wednesady</th>
@@ -45,6 +45,10 @@ tfoot {background-color: Orange;}
 		<tr>
 			<th><i>11am</i></th>
 			
+		</tr>
+		<tr>
+			<th><i>12am</i></th>
+			<td colspan="5">Lunch</td>
 		</tr>
 		<tr>
 			<th><i>13am</i></th>

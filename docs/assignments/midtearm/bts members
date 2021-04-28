@@ -1,0 +1,112 @@
+
+<html>
+<head>
+	<head>
+    <title>BTS | MEMBERS</title>
+    <link rel="stylesheet" href="/assets/css/style.css?v=f555434d63b132a9af55cd4445a66f36bcec6b60">
+	<link href="style.css " rel="stylesheet">
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<header class="header">
+	<table width="1000" height="500">
+　<tr><td align="center">
+		<font size="10"><br></br> <h1>MEMBERS</h1></td></tr></font>
+</table>
+	</header><!-- .header-->
+
+	<div class="middle">
+
+		<div class="container">
+			<main class="content">
+				<font size="3"><br></br><ul>
+				<font size="6"><li>RM</li></font></ul></br>
+	<ol><ul>
+	<li><a href="https://zh.wikipedia.org/wiki/%E9%87%91%E5%8D%97%E4%BF%8A"><img src="images/RM.jpg"width="300" height="400"></a></li>
+		<li>REAL NAME:김남준</li>
+		<li>BIRTHDAY:1994/9/12</li>
+		<li>HOMETOWN:Goyang 고양시</li>
+		<li>LEADER</li>
+		<li>THE FIRST PERSON WHO JOINED BTS.</li>
+	</ol></ul></font>
+	<font size="3"><br></br><ul>
+				<font size="6"><li>JIN</li></font></ul></br>
+	<ol><ul><li><a href="https://zh.wikipedia.org/wiki/%E9%87%91%E7%A2%A9%E7%8F%8D"><img src="images/JIN.jpg"width="300" height="400"></a></li>
+		<li>REAL NAME:김석진</li>
+		<li>BIRTHDAY:1992/12/4</li>
+		<li>HOMETOWN:Gwacheon 과천시</li>
+		<li>VOCALIST</li>
+		<li>THE FOURTH PERSON WHO JOINED BTS.</li>
+	</ol></ul></font>
+	<font size="3"><br></br><ul>
+				<font size="6"><li>SUGA</li></font></ul></br>
+	<ol><ul><li><a href="https://zh.wikipedia.org/wiki/%E9%96%94%E7%8E%A7%E5%85%B6"><img src="images/SUGA.jpg"width="300" height="400"></a></li>
+		<li>REAL NAME:민윤기</li>
+		<li>BIRTHDAY:1993/3/9</li>
+		<li>HOMETOWN:Daegu 대구광역시</li>
+		<li>RAPPER</li>
+		<li>THE SECOND PERSON WHO JOINED BTS.</li>
+	</ol></ul></font>
+	<font size="3"><br></br><ul>
+				<font size="6"><li>J-HOPE</li></font></ul></br>
+	<ol><ul<li><a href="https://zh.wikipedia.org/wiki/%E9%84%AD%E8%99%9F%E9%8C%AB"><img src="images/HOBI.jpg"width="300" height="400"></a></li>
+		<li>REAL NAME:정호석</li>
+		<li>BIRTHDAY:1994/2/18</li>
+		<li>HOMETOWN:Gwangju 광주광역시</li>
+		<li>RAPPER</li>
+		<li>THE THIRD PERSON WHO JOINED BTS.</li>
+	</ol></ul></font>
+	<font size="3"><br></br><ul>
+				<font size="6"><li>JIMIN</li></font></ul></br>
+	<ol><ul><li><a href="https://zh.wikipedia.org/wiki/%E6%9C%B4%E6%99%BA%E6%97%BB"><img src="images/JIMIN.jpg"width="300" height="400"></a></li>
+		<li>REAL NAME:박지민</li>
+		<li>BIRTHDAY:1995/10/13</li>
+		<li>HOMETOWN:Busan 부산광역시</li>
+		<li>VOCALIST</li>
+		<li>THE LAST PERSON WHO JOINED BTS.</li>
+	</ol></ul></font>
+	<font size="3"><br></br><ul>
+				<font size="6"><li>V</li></font></ul></br>
+	<ol><ul><li><a href="https://zh.wikipedia.org/wiki/%E9%87%91%E6%B3%B0%E4%BA%A8_(1995%E5%B9%B4)"><img src="images/V.jpg"width="300" height="400"></a></li>
+		<li>REAL NAME:김태형</li>
+		<li>BIRTHDAY:1995/12/30</li>
+		<li>HOMETOWN:Daegu 대구광역시</li>
+		<li>VOCALIST</li>
+		<li>THE SIXTH PERSON WHO JOINED BTS.</li>
+	</ol></ul></font>
+	<font size="3"><br></br><ul>
+				<font size="6"><li>JUNGKOOK</li></font></ul></br>
+	<ol><ul><li><a href="https://zh.wikipedia.org/wiki/%E7%94%B0%E6%9F%BE%E5%9C%8B"><img src="images/JK.jpg"width="300" height="400"></a></li>
+		<li>REAL NAME:전정국</li>
+		<li>BIRTHDAY:1992/9/1</li>
+		<li>HOMETOWN:Busan 부산광역시</li>
+		<li>VOCALIST</li>
+		<li>THE FIFTH PERSON WHO JOINED BTS.</li>
+	</ol></ul></font>
+			</main><!-- .content -->
+		</div><!-- .container-->
+
+		<aside class="left-sidebar">
+			<font size="3"><strong></strong><br></br> <a href="about%20them.html" title="ABOUT THEM ">ABOUT THEM</a><br> </br>
+			<a href="members.html" title="MEMBERS ">MEMBERS</a><br></br>
+			<a href="albums.html" title="ABOUT THEM ">ALBUMS</a><br></br>
+			<br></br> </font>
+			<img src="images/406102.jpg"width="250" height="300">
+		</aside><!-- .left-sidebar -->
+
+	</div><!-- .middle-->
+
+</div><!-- .wrapper -->
+
+<footer class="footer">
+<table width="1000" height="500">
+　<tr><td align="center">
+	<font size="5"> TO OUR BIGGEST LOVE,BTS.</td></tr></font>
+</table>
+</footer><!-- .footer -->
+
+</body>
+</html>
